@@ -266,7 +266,7 @@ print(__________)
 
 (A) a. isupper()
 (B) a. islower()
-(C) a.upper()
+(C) a.upper() 
 (D) a.lower()
 ```
 ```
